@@ -1,0 +1,23 @@
+#mycb
+{
+font-famiy: "Heebo";
+background-color:white;
+text-align: left;
+border-color: #EC9184;
+font size:"18px";
+}
+
+#mycb:hover
+{
+background-color:white;
+}
+
+#mycb > option
+{
+border-color: #EC9184;
+}
+
+#mycb:active
+{
+border-color: #EC9184;
+}
